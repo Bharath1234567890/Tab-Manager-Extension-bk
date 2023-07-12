@@ -1,0 +1,26 @@
+body {
+  width: 300px;
+}
+
+.tab-item {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.tab-title {
+  font-weight: bold;
+}
+
+.tab-url {
+  font-size: 12px;
+  color: #777;
+}
+.delete-button {
+  margin-left: 10px;
+  padding: 5px 10px;
+  background-color: #ff0000;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
